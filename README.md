@@ -4,6 +4,14 @@ A passionate **Front-End & Mobile App Developer** dedicated to crafting high-fid
 
 ---
 
+### ⚡ Quick About Me
+- 🔭 I’m currently focused on developing high-performance, responsive cross-platform apps with **React Native** & **Flutter**.
+- 🎨 Deeply interested in **UI/UX Animations**, Glassmorphism, and interactive data visualization.
+- 🧪 Leveraged a background in **Software Testing (QA)** to write clean, maintainable, and highly resilient code.
+- 🚀 Ready to relocate to **Ho Chi Minh City** for new full-time opportunities.
+
+---
+
 ### 🏫 Education 📖
 * 🎓 **Bachelor of Information Technology** at [Quy Nhon University](https://qnu.edu.vn/) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22">
 * 🎯 **Major:** Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"> 
@@ -56,10 +64,33 @@ A passionate **Front-End & Mobile App Developer** dedicated to crafting high-fid
 <code><img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /></code>
-<code><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chartdotjs&logoColor=white" /></code>
 
+---
+
+### 🚀 Highlight Projects
+*🤖 Do NDA restrictions apply to company projects, these are representative architectures I focus on:*
+
+* **[Your-Project-Name-1]** - A modern Fintech mobile layout leveraging **React Native** and Glassmorphism design principles, focusing on smooth financial dashboards and interactive user stats.
+* **[Your-Project-Name-2]** - A cross-platform utility/e-commerce application built with **Flutter**, implementing secure state management and smooth native routing animations.
+
+<!--
+---
+### 🔥 GitHub Stats & Activity 🔥
+
+<p align="center">
+  <a href="https://github.com/tukieef-nahh">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tukieef-nahh&show_icons=true&theme=react&hide_border=true&title_color=61dafb&icon_color=61dafb&bg_color=20232a&text_color=ffffff" alt="Thanh Kieu's GitHub Stats" />
+  </a>
+  <a href="https://github.com/tukieef-nahh">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tukieef-nahh&layout=compact&hide_border=true&title_color=61dafb&bg_color=20232a&text_color=ffffff&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tukieef-nahh&theme=react&hide_border=true&background=20232a&title=61dafb&ring=61dafb&fire=61dafb" alt="GitHub Streak" />
+</p>
+-->
 ---
 
 #### ⭐️ From [Thanh Kieu](https://github.com/tukieef-nahh) with 💙
