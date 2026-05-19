@@ -1,64 +1,65 @@
-# 🐳 Hello there, I'm Thanh Kieu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# 🐳 Hello there, I'm Thanh Kieu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
+
+A passionate **Front-End & Mobile App Developer** dedicated to crafting high-fidelity, pixel-perfect user interfaces and smooth cross-platform applications. Experienced in Fintech, modern Glassmorphic design, and writing clean, well-tested code with a strong QA mindset.
+
+---
 
 ### 🏫 Education 📖
-<p>👉<em> Bachelor of Information Technology at <a href="http://www.unb.br"> Quy Nhon University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>👉 Majoring in Software Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+* 🎓 **Bachelor of Information Technology** at [Quy Nhon University](https://qnu.edu.vn/) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22">
+* 🎯 **Major:** Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"> 
 
-### 🐬 Connect wite me 🤙
-<!--<code>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white) <a href="https://www.facebook.com/tukieefnah">Thanh Kieu</a></code>
-<code>![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white) <a href="https://www.instagram.com/tukieef_nah">Thanh Kieu</a></code>
+---
 
-<code>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-squar&logo=gmail&logoColor=white) thanhkieu.tttk1982003@gmail.com</code>-->
-<a href="https://www.facebook.com/tukieefnahh" target="blank">
-  <img src="https://img.icons8.com/bubbles/70/000000/facebook-new.png" alt="thanhkieu-facebook" /></a>
-<a href="https://www.instagram.com/tukieef_nahh" target="blank">
-  <img src="https://img.icons8.com/bubbles/70/000000/instagram.png" alt="thanhkieu-instagram" /></a>
-<a href="mailto:thanhkieu.tttk1982003@gmail.com" target="top">
-  <img src="https://img.icons8.com/bubbles/70/000000/apple-mail.png" alt="thanhkieu-email" /></a>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools 🛠 
-
-#### 👉 Languages
-<code>![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)</code>
-<code>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)</code>
-<code>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)</code>
-<code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)</code>
-<code>![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)</code>
-<code>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)</code>
-<code>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)</code>
-<code>![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)</code>
-
-<code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</code>
-<code>![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</code>
-<code>![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)</code>
-<code>![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)</code>
-<code>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)</code>
-<code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code>
-
-
-#### 👉 Database
-<code>![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)</code>
-<code>![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)</code>
-
-
-#### 👉 Tools
-<code>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)</code>
-<code>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)</code>
-<code>![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)</code>
-<code>![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)</code>
-<code>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)</code>
-<code>![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)</code>
-<code>![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black)</code>
-
-
-### 🔥 GitHub Stats 🔥
-<a href="#" title="tukieef-nahh">
-  <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tukieef-nahh&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+### 🐬 Connect with me 🤙
+<a href="https://www.facebook.com/tukieefnahh" target="_blank">
+  <img src="https://img.icons8.com/bubbles/60/000000/facebook-new.png" alt="Facebook" />
 </a>
-  <!--<a href="#" title="tukieef-nahh">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tukieef-nahh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a> -->
+<a href="https://www.instagram.com/tukieef_nahh" target="_blank">
+  <img src="https://img.icons8.com/bubbles/60/000000/instagram.png" alt="Instagram" />
+</a>
+<a href="mailto:thanhkieu.tttk1982003@gmail.com">
+  <img src="https://img.icons8.com/bubbles/60/000000/apple-mail.png" alt="Email" />
+</a>
 
+---
 
-#### ⭐️ From [Thanh Kieu](https://github.com/tukieef-nah) 💙
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Tech Stack & Tools 🛠 
+
+#### 📱 Mobile Development
+<code><img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /></code>
+<code><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Dart-00C4B3?style=flat-square&logo=dart&logoColor=white" /></code>
+
+#### 🌐 Web & Front-End Development
+<code><img src="https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000" /></code>
+<code><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/React_JS-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /></code>
+<code><img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /></code>
+
+#### 💾 State & Data Management
+<code><img src="https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" /></code>
+
+#### 🧪 Software Testing & QA
+<code><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" /></code>
+
+#### 🧰 Dev Tools & Ecosystem
+<code><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chartdotjs&logoColor=white" /></code>
+
+---
+
+#### ⭐️ From [Thanh Kieu](https://github.com/tukieef-nahh) with 💙
