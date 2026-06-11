@@ -66,14 +66,6 @@ A passionate **Front-End & Mobile App Developer** dedicated to crafting high-fid
 <code><img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chartdotjs&logoColor=white" /></code>
 
----
-
-### 🚀 Highlight Projects
-*🤖 Do NDA restrictions apply to company projects, these are representative architectures I focus on:*
-
-* **[Your-Project-Name-1]** - A modern Fintech mobile layout leveraging **React Native** and Glassmorphism design principles, focusing on smooth financial dashboards and interactive user stats.
-* **[Your-Project-Name-2]** - A cross-platform utility/e-commerce application built with **Flutter**, implementing secure state management and smooth native routing animations.
-
 <!--
 ---
 ### 🔥 GitHub Stats & Activity 🔥
