@@ -25,7 +25,7 @@ A passionate **Front-End & Mobile App Developer** dedicated to crafting high-fid
 <a href="https://www.instagram.com/tukieef_nahh" target="_blank">
   <img src="https://img.icons8.com/bubbles/60/000000/instagram.png" alt="Instagram" />
 </a>
-<a href="mailto:thanhkieu.tttk1982003@gmail.com">
+<a href="mailto:tttk.nvla1.2019@gmail.com">
   <img src="https://img.icons8.com/bubbles/60/000000/apple-mail.png" alt="Email" />
 </a>
 
